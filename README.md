@@ -1,2 +1,10 @@
 # myNotes
-Study Notes for I interested in.
+Study Notes for what I interested in.
+
+#Spark
+
+#Hadoop
+
+#Data Mining & Machine Learning
+
+#R
